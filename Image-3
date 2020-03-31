@@ -1,7 +1,7 @@
 var Techanical Specifications = [
      {
-     Dimensions:[ 
-                   { 
+     Dimensions:[
+                   {
            overall length : 3500mm,
            overall width :  1600mm,
            overall height : 1490mm,
@@ -17,15 +17,15 @@ var Techanical Specifications = [
            ],
            },
        {
-       Capacities : [
+      Capacities : [
        {
-         Seating capacity : 5 persons,
-         Fuel tank capacity : 35 lit,
+           Seating capacity : 5 persons,
+           Fuel tank capacity : 35 lit,
        }
        ],
-       
+       }
        {
-         Engine : [
+      Engine : [
           {
             Type : "KB-SERIES",
             Numbers of cylinders : 3,
@@ -36,49 +36,49 @@ var Techanical Specifications = [
             Maximum power : 67/6,200 Ps/rpm,
             Maximum torque : 90/3500 Nm/rpm,
             Fuel distribution : "Multipoint Injection",
-          }, 
+          },
           ],
           },
        {
-          Transmission : [
-                {
-                    Type : 5-Speed MT,
-                }
-            ],  
+        Transmission : [
+        {
+            Type : 5-Speed MT,
+        }
+        ],
         }
         {
-           Chassis : [
-                 {
-                    Steering : "Rack & Pinion,Power assisted",
-                  },
-                 {
-                    Brakes : [
-                         { 
-                           Front : "Ventilated discs",
-                           Rear  : "Drums",
-                          },
-                             ],
-                  },
-                  {
-                    Suspension : [
-                         { 
-                           Front : "Macpherson strut & coil spring ",
-                           Rear  :  "Isolated trailing link & coil spring ",
-                          },
-                             ],
-                  },
-
-            {
-              Shock absorbers : "Gas filled",
-              Tyres(tubless) : 155/80R13, 
-            },
-          ],
-              {
-                Weights : [
+        Chassis : [
+        {
+            Steering : "Rack & Pinion,Power assisted",
+        },
+        {
+            Brakes : [
+          {
+            Front : "Ventilated discs",
+            Rear  : "Drums",
+          },
+                     ],
+        },
+        {
+            Suspension : [
                 {
-                  Kerb weight (min.with full options)  : 860-880 kg
-                  Gross vehicle weight : 1320 kg
+            Front : "Macpherson strut & coil spring ",
+            Rear  :  "Isolated trailing link & coil spring ",
                 },
                           ],
-               },           
+        },
+
+            {
+            Shock absorbers : "Gas filled",
+            Tyres(tubless) : 155/80R13,
+            },
+          ],
+            {
+        Weights : [
+                {
+                  Kerb weight (min.with full options)  : 860-880 kg,
+                  Gross vehicle weight : 1320 kg,
+                },
+                  ],
+            },
 ],
