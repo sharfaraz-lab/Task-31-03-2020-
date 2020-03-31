@@ -1,0 +1,48 @@
+var library = [
+     {
+       title : "Javascript",
+       price : 500,
+       readers : [
+            {
+                 name : "person 1",
+                 count : 300
+            },
+            {
+                 name : "person 2",
+                 count : 400
+            }
+         ],
+         authorDetails : {
+              name : "Raj",
+              age : 40
+         }
+     },
+     {
+         title : "Nodejs",
+         price : 600,
+         readers : [],
+         authorDetails : {
+              name : "Raj",
+              age : 40
+         }
+     }
+]
+
+
+
+4a. To print the price of javascript book in console:
+>>     console.log(library[0][1]);
+
+4b.To print the age of Nodejs Author in console:
+>> 
+
+4c.To print how many readers for javascript in console:
+>> 
+
+4d.To print the count value of person 2 in console:
+>> 
+
+
+
+
+
