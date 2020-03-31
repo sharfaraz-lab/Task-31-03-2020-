@@ -34,13 +34,13 @@ var library = [
 >>     console.log(library[0][1]);
 
 4b.To print the age of Nodejs Author in console:
->> 
+>>      console.log(library[1],"name");
 
 4c.To print how many readers for javascript in console:
->> 
+>>    console.log(library[0],"readers");
 
 4d.To print the count value of person 2 in console:
->> 
+>>    console.log(library[0],"readers [1] count");
 
 
 
