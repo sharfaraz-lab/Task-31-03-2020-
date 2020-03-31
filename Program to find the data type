@@ -1,0 +1,14 @@
+var git1 = 26.2
+var git2 = "Anyway"
+var git3 = True
+var git4 = undefined
+var git5 = null
+var git6 = "12"
+
+
+>>console.log(typeof git1)>>Number
+>>console.log(typeof git2)>>String
+>>console.log(typeof git3)>>Boolean
+>>console.log(typeof git4)>>Undefined
+>>console.log(typeof git5)>>Object
+>>console.log(typeof git6)>>Number
