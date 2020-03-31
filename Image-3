@@ -8,16 +8,14 @@ var Techanical Specifications = [
            track width : [
                       {
                          Front : 1405mm,
-                      },
-                      {
-                          Rear : 1400mm,
+                         Rear : 1400mm,
                       },
                    ],
            Minimum turning radius : 4.5mm,
            Minimum ground clearence : 170mm,
            },
-           },
            ],
+           },
        {
        Capacities : [
        {
