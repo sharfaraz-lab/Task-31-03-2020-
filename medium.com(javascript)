@@ -1,1 +1,14 @@
+What is JavaScript?
+JavaScript was initially created to “make web pages alive”.
+The programs in this language are called scripts. They can be written right in a web page’s HTML and run automatically as the page loads.
+Scripts are provided and executed as plain text. They don’t need special preparation or compilation to run.
+In this aspect, JavaScript is very different from another language called Java.
+Different engines have different “codenames”. 
+V8 – in Chrome and Opera.
+SpiderMonkey – in Firefox.
+…There are other codenames like “Trident” and “Chakra” for different versions of IE, “ChakraCore” for Microsoft Edge, “Nitro” and “SquirrelFish” for Safari, etc.
+ 1.CoffeeScript is a “syntactic sugar” for JavaScript. It introduces shorter syntax, allowing us to write clearer and more precise code. Usually, Ruby devs like it.
+ 2.TypeScript is concentrated on adding “strict data typing” to simplify the development and support of complex systems. It is developed by Microsoft.
+ 3.Flow also adds data typing, but in a different way. Developed by Facebook.
+4.Dart is a standalone language that has its own engine that runs in non-browser environments (like mobile apps), but also can be transpiled to JavaScript. Developed by Google.
 
