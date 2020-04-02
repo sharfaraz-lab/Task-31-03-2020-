@@ -19,7 +19,7 @@ var techanicalSpecifications =
        {
       Capacities : [
        {
-           seating_capacity : 5 ,
+           seating_capacity : "5 persons" ,
            fuel_tank_capacity  :"35lit",
        }
        ],
