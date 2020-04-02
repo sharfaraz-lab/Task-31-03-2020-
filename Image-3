@@ -1,26 +1,26 @@
-var Techanical Specifications = [
+var techanicalSpecifications =
      {
      Dimensions:[
                    {
-           overall length : 3500mm,
-           overall width :  1600mm,
-           overall height : 1490mm,
-           track width : [
+           overall_length : "3500mm",
+           overall_width :  "1600mm",
+           overall_height  : "1490mm",
+           track_width  : [
                       {
-                         Front : 1405mm,
-                         Rear : 1400mm,
+                         Front : "1405mm",
+                         Rear : "1400mm",
                       },
                    ],
-           Minimum turning radius : 4.5mm,
-           Minimum ground clearence : 170mm,
+           Minimum_turning_radius : "4.5mm",
+           Minimum_ground_clearence :"170mm",
            },
            ],
            },
        {
       Capacities : [
        {
-           Seating capacity : 5 persons,
-           Fuel tank capacity : 35 lit,
+           seating_capacity : 5 ,
+           fuel_tank_capacity  :"35lit",
        }
        ],
        }
@@ -28,21 +28,21 @@ var Techanical Specifications = [
       Engine : [
           {
             Type : "KB-SERIES",
-            Numbers of cylinders : 3,
-            Numbers of valves : 12,
-            Capacity : 998 cc/cm^3
-            Bore x stroke : 73.0 X 79.5mm
-            Compression ratio : 10:1,
-            Maximum power : 67/6,200 Ps/rpm,
-            Maximum torque : 90/3500 Nm/rpm,
-            Fuel distribution : "Multipoint Injection",
+            Numbers_of_cylinders : 3,
+            Numbers_of_valves : 12,
+            Capacity : "998 cc/cm^3",
+            Bore_x_stroke :"73.0 X 79.5mm",
+            Compression_ratio : "10:1",
+            Maximum_power : "67/6,200 Ps/rpm",
+            Maximum_torque : "90/3500 Nm/rpm",
+            Fuel_distribution : "Multipoint Injection",
           },
           ],
           },
        {
         Transmission : [
         {
-            Type : 5-Speed MT,
+            Type :"5-Speed MT",
         }
         ],
         }
@@ -69,16 +69,16 @@ var Techanical Specifications = [
         },
 
             {
-            Shock absorbers : "Gas filled",
-            Tyres(tubless) : 155/80R13,
+            Shock_absorbers : "Gas filled",
+            Tyres_tubless) : "155/80R13",
             },
           ],
             {
         Weights : [
                 {
-                  Kerb weight (min.with full options)  : 860-880 kg,
-                  Gross vehicle weight : 1320 kg,
+                  Kerb_weight (min_with_full_options)  : "860-880 kg",
+                  Gross_vehicle weight : "1320 kg",
                 },
                   ],
             },
-],
+
